@@ -1,0 +1,11 @@
+C:\Users\yavuz\source\repos\ReposiyoryFramework\ReposiyoryFramework\bin\Debug\netcoreapp2.0\ReposiyoryFramework.deps.json
+C:\Users\yavuz\source\repos\ReposiyoryFramework\ReposiyoryFramework\bin\Debug\netcoreapp2.0\ReposiyoryFramework.runtimeconfig.json
+C:\Users\yavuz\source\repos\ReposiyoryFramework\ReposiyoryFramework\bin\Debug\netcoreapp2.0\ReposiyoryFramework.runtimeconfig.dev.json
+C:\Users\yavuz\source\repos\ReposiyoryFramework\ReposiyoryFramework\bin\Debug\netcoreapp2.0\ReposiyoryFramework.dll
+C:\Users\yavuz\source\repos\ReposiyoryFramework\ReposiyoryFramework\bin\Debug\netcoreapp2.0\ReposiyoryFramework.pdb
+C:\Users\yavuz\source\repos\ReposiyoryFramework\ReposiyoryFramework\obj\Debug\netcoreapp2.0\ReposiyoryFramework.csprojResolveAssemblyReference.cache
+C:\Users\yavuz\source\repos\ReposiyoryFramework\ReposiyoryFramework\obj\Debug\netcoreapp2.0\ReposiyoryFramework.csproj.CoreCompileInputs.cache
+C:\Users\yavuz\source\repos\ReposiyoryFramework\ReposiyoryFramework\obj\Debug\netcoreapp2.0\ReposiyoryFramework.AssemblyInfoInputs.cache
+C:\Users\yavuz\source\repos\ReposiyoryFramework\ReposiyoryFramework\obj\Debug\netcoreapp2.0\ReposiyoryFramework.AssemblyInfo.cs
+C:\Users\yavuz\source\repos\ReposiyoryFramework\ReposiyoryFramework\obj\Debug\netcoreapp2.0\ReposiyoryFramework.dll
+C:\Users\yavuz\source\repos\ReposiyoryFramework\ReposiyoryFramework\obj\Debug\netcoreapp2.0\ReposiyoryFramework.pdb
